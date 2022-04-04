@@ -8,4 +8,3 @@ evilgaoshu
 # feature-A
 # fix-B
 # fix-C
-# test gpg
